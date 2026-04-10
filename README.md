@@ -39,3 +39,12 @@ devops-rails-legal-app22/
 └── .github/
     └── workflows/
         └── ci.yml
+
+
+
+## 🤝 My Contribution-Saransh Pillai--
+
+- Managed GitHub repository workflows including branching, commits, and pull requests  
+- Implemented version control best practices for collaborative development  
+- Integrated CI triggers for automated build and deployment processes  
+- Maintained code consistency and streamlined team collaboration using Git  
